@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/temp33415-8418s-projects/v0-aigames](https://vercel.com/temp33415-8418s-projects/v0-aigames)**
+https://ai-problems.netlify.app/
 
 ## Build your app
 
